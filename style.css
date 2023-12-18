@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+}
+
+canvas {
+    display: none;
+    max-width: 100%;
+}
+
+button {
+    margin-top: 10px;
+}
